@@ -8,6 +8,6 @@ class HistoryListController extends Controller
 {
     //
     public function index(){
-        return "success!!";
+        return "get_HisrotyList";
     }
 }
